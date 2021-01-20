@@ -1,4 +1,4 @@
-# l5-filterable-sortable
+# l8-filterable-sortable
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
