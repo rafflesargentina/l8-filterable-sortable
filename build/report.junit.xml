@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="2" assertions="2" errors="0" warnings="0" failures="0" skipped="0" time="10.403128">
+    <testsuite name="FilterableSortable Test Suite" tests="2" assertions="2" errors="0" warnings="0" failures="0" skipped="0" time="10.403128">
+      <testsuite name="RafflesArgentina\FilterableSortable\FilterableSortableTest" file="/Users/mpatronelli/Desarrollo/l8-filterable-sortable/tests/FilterableSortableTest.php" tests="2" assertions="2" errors="0" warnings="0" failures="0" skipped="0" time="10.403128">
+        <testcase name="testResultsCanBeFiltered" class="RafflesArgentina\FilterableSortable\FilterableSortableTest" classname="RafflesArgentina.FilterableSortable.FilterableSortableTest" file="/Users/mpatronelli/Desarrollo/l8-filterable-sortable/tests/FilterableSortableTest.php" line="47" assertions="1" time="5.455050"/>
+        <testcase name="testResultsCanBeSorted" class="RafflesArgentina\FilterableSortable\FilterableSortableTest" classname="RafflesArgentina.FilterableSortable.FilterableSortableTest" file="/Users/mpatronelli/Desarrollo/l8-filterable-sortable/tests/FilterableSortableTest.php" line="55" assertions="1" time="4.948078"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
